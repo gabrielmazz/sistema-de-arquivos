@@ -1,0 +1,9 @@
+Manual de Uso do Sistema de Arquivos
+
+Para compilar e executar:
+make
+
+Após execução:
+As funcionalidades do sistema de arquivos serão
+apresentadas em forma de itens. É apenas necessário
+escolher qual função do sistema pretende-se utilizar.
